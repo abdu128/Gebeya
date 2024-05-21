@@ -1,14 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import Chart from './pages/Chart';
 import reportWebVitals from './reportWebVitals';
-import Login from './pages/login';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Login/>
+    <Chart/>
   </React.StrictMode>
 );
 
