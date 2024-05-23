@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Chart.css';
+import './Cart.css';
 
 
 
@@ -71,7 +71,7 @@ const Chart = () => {
             <th>Product</th>
             <th>Price</th>
             <th>Quantity</th>
-            <th>Total</th>
+            <th>subTotal</th>
           </tr>
         </thead>
         <tbody>
