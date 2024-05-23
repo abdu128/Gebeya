@@ -1,0 +1,277 @@
+.login {
+  border-radius: 24px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  width: 1366px;
+  box-sizing: border-box;
+}
+.login-1 .rectangle-4 {
+  background: url('assets/images/Rectangle4.png') 100%, linear-gradient(37.64deg, #9181F4 105.8%, #201D2F 206.69%, #5038ED 206.7%);
+  width: 683px;
+  height: 768px;
+}
+.login-1 .sign-up {
+  margin-right: 29.7px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 30px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.login-1 .connecting-with-you-every-step-of-the-way {
+  margin: 0 38px 39px 41px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #525252;
+}
+.login-1 .group-2 {
+  border-radius: 16px;
+  background: rgba(240, 237, 255, 0.8);
+  position: relative;
+  margin: 0 4px 17.4px 15px;
+  display: flex;
+  flex-direction: row;
+  padding: 18.4px 0 19.6px 23.6px;
+  width: 409.3px;
+  box-sizing: border-box;
+}
+.login-1 .password {
+  margin: 2.6px 0 0px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 15px;
+  color: #1C1C1C;
+}
+.login-1 .frame {
+  margin-right: 10.2px;
+  display: flex;
+  width: 20.2px;
+  height: 25.7px;
+  box-sizing: border-box;
+}
+.login-1 .vector {
+  width: 20.2px;
+  height: 25.7px;
+}
+.login-1 .group-1 {
+  border-radius: 16px;
+  background: rgba(240, 237, 255, 0.8);
+  position: relative;
+  margin: 0 3px 19.4px 16px;
+  display: flex;
+  flex-direction: row;
+  padding: 18.4px 0 19.6px 24.7px;
+  width: 409.3px;
+  box-sizing: border-box;
+}
+.login-1 .username {
+  margin: 2.6px 0 0px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 15px;
+  color: #1C1C1C;
+}
+.login-1 .frame-1 {
+  margin-right: 11.3px;
+  display: flex;
+  width: 18px;
+  height: 25.7px;
+  box-sizing: border-box;
+}
+.login-1 .vector-1 {
+  width: 18px;
+  height: 25.7px;
+}
+.login-1 .group-3 {
+  box-shadow: 0px 8px 21px 0px rgba(0, 0, 0, 0.16);
+  border-radius: 16px;
+  background: linear-gradient(279.78deg, #2D2C2F 105.8%, #5038ED 209.5%);
+  position: relative;
+  margin: 0 62.8px 17.4px 0;
+  display: flex;
+  padding: 20.8px 9.2px 24.8px 0;
+  width: 139.4px;
+  box-sizing: border-box;
+}
+.login-1 .login-now {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+.login-1 .group-9 {
+  border-radius: 16px;
+  border: 1px solid #F0EDFF;
+  position: relative;
+  margin: 0 19px 54.4px 0;
+  display: flex;
+  flex-direction: row;
+  padding: 13.5px 0;
+  width: 409.3px;
+  box-sizing: border-box;
+}
+.continue-with-google {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 1.333;
+}
+.login-1 .continue-with-google {
+  margin: 7.3px 0 11.4px 0;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: #1C1C1C;
+}
+.login-1 .google-1 {
+  background: url('assets/images/Image.jpeg') 50% / cover no-repeat;
+  margin-right: 9px;
+  width: 33.7px;
+  height: 36.7px;
+}
+.login-1 .group-11 {
+  border-radius: 16px;
+  background: rgba(240, 237, 255, 0.8);
+  position: relative;
+  margin: 0 0 3.4px 19px;
+  display: flex;
+  flex-direction: row;
+  padding: 18.4px 0 19.6px 24.7px;
+  width: 409.3px;
+  box-sizing: border-box;
+}
+.login-1 .email {
+  margin: 2.4px 0 0.2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 15px;
+  color: #1C1C1C;
+}
+.login-1 .frame-2 {
+  margin-right: 11.2px;
+  display: flex;
+  width: 18px;
+  height: 25.7px;
+  box-sizing: border-box;
+}
+.login-1 .vector-2 {
+  width: 18px;
+  height: 25.7px;
+}
+.login-1 .frame-3 {
+  margin: 0 8.4px 3.1px 0;
+  display: flex;
+  width: 20.2px;
+  height: 25.7px;
+  box-sizing: border-box;
+}
+.login-1 .vector-3 {
+  width: 20.2px;
+  height: 25.7px;
+}
+.login-1 .confirm-password {
+  margin-top: 5.8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 15px;
+  color: #1C1C1C;
+}
+.login-1 .group-10 {
+  box-shadow: 0px 8px 21px 0px rgba(0, 0, 0, 0.16);
+  border-radius: 16px;
+  background: linear-gradient(279.78deg, #2D2C2F 105.8%, #5038ED 209.5%);
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  display: flex;
+  padding: 21px 1.1px 24.6px 0;
+  width: 139.4px;
+  box-sizing: border-box;
+}
+.login-1 .sign-up-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+.login-1 .group-11 {
+  border-radius: 16px;
+  margin-right: 59.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 269px;
+  box-sizing: border-box;
+}
+.login-1 .login-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.login-1 .group-5 {
+  margin: 9px 0 10px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.login-1 .have-account {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: #1C1C1C;
+}
+.login-1 .container {
+  background: linear-gradient(37.64deg, #9181F4 105.8%, #5038ED 206.7%);
+  position: relative;
+  display: flex;
+  width: 683px;
+  height: 768px;
+  box-sizing: border-box;
+}
+.login-1 .container-1 {
+  border-radius: 16px;
+  border: 1px solid #F0EDFF;
+  position: relative;
+  display: flex;
+  padding: 9px 14.4px 10px 0;
+  width: 114px;
+  box-sizing: border-box;
+}
+.login-1 .container-2 {
+  border-radius: 16px;
+  background: rgba(240, 237, 255, 0.8);
+  position: relative;
+  margin: 0 0 12.4px 19px;
+  display: flex;
+  flex-direction: row;
+  padding: 15.2px 0 19.6px 25.4px;
+  width: 409.3px;
+  box-sizing: border-box;
+}
+.login-1 .container-3 {
+  margin: 73px 113.7px 44px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
