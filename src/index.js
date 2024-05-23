@@ -1,22 +1,27 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import Product from './pages/product'; // Correct capitalization
 import reportWebVitals from './reportWebVitals';
 import Login from './pages/login';
 import Signup from './pages/signup';
 import Home from './pages/home';
 
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
+ReactDOM.render(
   <React.StrictMode>
+<<<<<<< HEAD
     {/* <Home/> */}
     <Signup/>
     {/* <Login/> */}
     
 
   </React.StrictMode>
+=======
+    <Product />
+  </React.StrictMode>,
+  document.getElementById('root')
+>>>>>>> 8f2ea82fc942abca356d1106cf0b244eb16cacdb
 );
 
 // If you want to start measuring performance in your app, pass a function

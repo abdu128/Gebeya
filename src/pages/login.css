@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .login {
   border-radius: 54px;
   background: #F5F5F5;
@@ -48,6 +49,10 @@
 
 .login .group-8 {
     border-radius: 10px;
+=======
+.login .group-8 {
+    border-radius: 16px;
+>>>>>>> 8f2ea82fc942abca356d1106cf0b244eb16cacdb
     margin: 0 22px;
     display: flex;
     flex-direction: row;
@@ -75,7 +80,11 @@
     box-sizing: border-box;
   }
   .login .rectangle-4 {
+<<<<<<< HEAD
     background: url('assets/images/Rectangle4.png') 100%, linear-gradient(37.64deg, #9181F4 105.8%, #201D2F 206.69%, #5038ED 206.7%);
+=======
+    /* background: url('assets/images/Rectangle4.png') 100%, linear-gradient(37.64deg, #9181F4 105.8%, #201D2F 206.69%, #5038ED 206.7%); */
+>>>>>>> 8f2ea82fc942abca356d1106cf0b244eb16cacdb
     width: 683px;
     height: 768px;
   }
@@ -225,7 +234,11 @@
     color: #1C1C1C;
   }
   .login .google-1 {
+<<<<<<< HEAD
     background: url('assets/images/Google1.png') 50% / cover no-repeat;
+=======
+    /* background: url('assets/images/Google1.png') 50% / cover no-repeat; */
+>>>>>>> 8f2ea82fc942abca356d1106cf0b244eb16cacdb
     margin-right: 8px;
     width: 30px;
     height: 30px;
