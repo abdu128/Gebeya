@@ -10,14 +10,14 @@
     "firebase": "^10.12.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-<<<<<<< HEAD
-    "react-scripts": "^5.0.1",
-=======
-    "react-router-dom": "^6.23.1",
-    "react-scripts": "5.0.1",
->>>>>>> 8f2ea82fc942abca356d1106cf0b244eb16cacdb
-    "web-vitals": "^2.1.4"
-  },
+    
+      "dependencies": {
+        "react-scripts": "5.0.1",
+        "react-router-dom": "^6.23.1",
+        "web-vitals": "^2.1.4"
+      }
+    }
+    ,
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

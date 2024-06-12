@@ -1,34 +1,25 @@
-<<<<<<< HEAD
-import logo from './logo.svg';
-import './App.css';
-import './pages/home';
-import './pages/login';
-
-=======
 import React from 'react';
-import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
-import Chart from './pages/Cart'; // Ensure you have a Cart component
-import Product from './pages/product';
->>>>>>> 8f2ea82fc942abca356d1106cf0b244eb16cacdb
+import { Route, Routes } from 'react-router-dom';
+import Cart from './pages/Cart';
+import About from './pages/about';
+import Contact from './pages/contact';
+import Home from './pages/home';
+import Login from './pages/login';
+
 
 function App() {
   return (
-    <Router>
-<<<<<<< HEAD
+    <div>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/contact" element={<Contact />} />*
         <Route path="/login" element={<Login />} />
-        {/* Add more routes as needed */}
+        <Route path="/cart" element={<Cart />} />
+
       </Routes>
-=======
-      <div className="App">
-        <Routes>
-          <Route path="/" element={<Product />} />
-          <Route path="/cart" element={<Chart />} />
-        </Routes>
-      </div>
->>>>>>> 8f2ea82fc942abca356d1106cf0b244eb16cacdb
-    </Router>
+    </div>
   );
 }
+
 export default App;
