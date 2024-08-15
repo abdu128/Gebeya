@@ -53,12 +53,12 @@ font-size: var(--body-text-font-size, 20px);
 line-height: var(--body-text-line-height, 1.5);
 color: #000000;
 }
-.shop .card-big {
+/* .shop .card-big {
 margin-right: 32px;
 display: flex;
 flex-direction: column;
 box-sizing: border-box;
-}
+} */
 .shop .image-1 {
 border-radius: 8px;
 background: url('assets/images/Image9.jpeg') 50% / cover no-repeat, url('assets/images/Image14.jpeg') 50% / cover no-repeat, linear-gradient(#F7F7F7, #F7F7F7);
@@ -114,14 +114,14 @@ font-size: var(--heading-font-size, 40px);
 line-height: var(--heading-line-height, 1.1);
 color: #000000;
 }
-.shop .card-grid {
+/* .shop .card-grid {
 margin: 0 83px 174px 75px;
 display: flex;
 flex-direction: column;
 align-items: center;
 width: fit-content;
 box-sizing: border-box;
-}
+} */
 .nav-links {
   display: flex;
   gap: 15px;
@@ -175,11 +175,11 @@ font-size: var(--body-text-font-size, 20px);
 line-height: var(--body-text-line-height, 1.5);
 color: #000000;
 }
-.shop .card-2 {
+/* .shop .card-2 {
 display: flex;
 flex-direction: column;
 box-sizing: border-box;
-}
+} */
 .shop .image-3 {
 border-radius: 8px;
 background: url('assets/images/Image7.jpeg') 50% / cover no-repeat, url('assets/images/Image15.jpeg') 50% / cover no-repeat, linear-gradient(#F7F7F7, #F7F7F7);
@@ -713,12 +713,12 @@ color: #000000;
   width: 1442px;
   box-sizing: border-box;
 }
-.shop .card-list {
+/* .shop .card-list {
   display: flex;
   flex-direction: column;
   align-items: center;
   box-sizing: border-box;
-}
+} */
 .shop .card-7 {
   margin-bottom: 32px;
   display: flex;
